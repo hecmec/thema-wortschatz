@@ -1,0 +1,43 @@
+{
+  "translation.tagline": {
+    "message": "Lernen Sie Englisch und Chinesisch mit thematischen Vokabellisten",
+    "description": "The tagline for the Docusaurus site"
+  },
+  "translation.title": {
+    "message": "Thematisches Vokabular",
+    "description": "The title for the Docusaurus site"
+  },
+  "navbar.link.Anglais": {
+    "message": "Englisch",
+    "description": "Navbar link for English"
+  },
+  "navbar.link.Chinois": {
+    "message": "Chinesisch",
+    "description": "Navbar link for Chinese"
+  },
+  "navbar.link.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar link for GitHub"
+  },
+  "footer.link.item.Anglais": {
+    "message": "Englisch",
+    "description": "Footer link for English"
+  },
+  "footer.link.item.Chinois": {
+    "message": "Chinesisch",
+    "description": "Footer link for Chinese"
+  },
+  "footer.link.item.YouTube": {
+    "message": "YouTube",
+    "description": "Footer link for YouTube"
+  },
+  "footer.link.item.Forvo (Prononciation)": {
+    "message": "Forvo (Aussprache)",
+    "description": "Footer link for Forvo"
+  },
+  "footer.copyright": {
+    "message": "Copyright © ${new Date().getFullYear()} Thematisches Vokabular. Erstellt mit Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
+

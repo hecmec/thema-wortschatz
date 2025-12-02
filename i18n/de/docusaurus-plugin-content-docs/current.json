@@ -1,0 +1,23 @@
+{
+  "tagline": {
+    "message": "Lernen Sie Englisch und Chinesisch mit thematischen Vokabellisten",
+    "description": "The tagline for the Docusaurus site"
+  },
+  "title": {
+    "message": "Thematisches Vokabular",
+    "description": "The title for the Docusaurus site"
+  },
+  "homepage.startEnglishButton": {
+    "message": "Englisch lernen 🇬🇧",
+    "description": "The button text to start learning English"
+  },
+  "homepage.startChineseButton": {
+    "message": "Chinesisch lernen 🇨🇳",
+    "description": "The button text to start learning Chinese"
+  },
+  "homepage.title": {
+    "message": "Startseite",
+    "description": "The homepage title"
+  }
+}
+
